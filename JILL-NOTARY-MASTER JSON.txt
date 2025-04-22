@@ -1,0 +1,166 @@
+{
+  "artifactTitle": "Project Summary & Proposal: Website & Branding for Jill's Notary Services",
+  "projectOverview": "This document summarizes the requirements, analysis, and proposed tiered approach for developing a professional website and comprehensive branding package for Jill's notary business, initially referred to as 'West Coast Notary Services' during the discovery phase. The goal is to establish a strong online presence, build trust, and streamline client interactions based on the specific needs and focus identified during discussions.",
+  "clientBackgroundAndNeeds": {
+    "businessNameContext": "The business operates under the legal entity name 'West Coast Notary Services'. While this name was used for initial planning and prompt generation, the final brand name will be determined as part of the branding package.",
+    "location": "Based in Florida.",
+    "serviceFocus": [
+      "High-value Loan Document Signings (mortgage refinances, purchases, title company work).",
+      "Estate Planning Document Notarization (Power of Attorney, Living Wills, Executive Directives) - a new, lucrative focus driven by joint ventures.",
+      "General Notary Work (Affidavits, Deeds, etc.) - a smaller percentage of desired business, potentially referred out."
+    ],
+    "servicesExcluded": [
+      "Reverse Mortgages (too long, insufficient pay)",
+      "Immigration Services",
+      "Tax Services",
+      "Apostille Services"
+    ],
+    "targetAudience": [
+      "Title Companies & Banks (Mortgage/Lending) requiring mobile notary services.",
+      "Clients referred through Joint Ventures (e.g., for Estate Planning).",
+      "Individuals/Businesses in Florida needing notarization."
+    ],
+    "businessGoals": [
+      "Effectively communicate specialized, high-value services.",
+      "Build trust and professionalism.",
+      "Facilitate efficient lead generation and appointment booking.",
+      "Reduce reliance on phone calls via online booking/request system.",
+      "Serve as a resource for joint venture partners' clients.",
+      "Establish a strong, legally viable brand identity."
+    ],
+    "currentStatus": {
+      "entityFiled": true,
+      "complianceChecked": "Address updated, in compliance.",
+      "existingProfiles": "Google Business Profile exists with some reviews.",
+      "certifications": "Relevant notary certifications held (e.g., NNA).",
+      "mobileSetup": "Existing mobile notary equipment available."
+    },
+    "keyConsiderations": [
+      "Need for a professional email address (@domain.com).",
+      "Potential use of secure platforms (like DocuSign) for document handling (separate from website).",
+      "Importance of calendar synchronization for online booking (especially for higher tiers).",
+      "Previous 'GoPro Notaries' branding idea is high-risk due to trademark issues and search competition; a new brand name is essential."
+    ]
+  },
+  "projectScope": {
+    "fixedComponent": {
+      "name": "Comprehensive Branding Package",
+      "description": "This foundational package establishes a professional and legally sound brand identity for the business. It is a mandatory component regardless of the chosen website tier.",
+      "deliverables": [
+        "Brand Name Finalization (legal availability check - trademark, domain).",
+        "Logo Design (initial concepts, refinement, finalization).",
+        "Multiple Logo Variations (full, icon/mark, horizontal, vertical, color, black/white, transparent).",
+        "Brand Kit (defined color palette with Hex codes, typography selection, basic usage guidelines).",
+        "Favicon (browser tab icon).",
+        "Delivery of all final assets in various formats (JPEG, PNG, SVG, PDF)."
+      ],
+      "value": "Ensures a consistent, professional, and legally viable brand identity that builds recognition and trust."
+    },
+    "variableComponent": {
+      "name": "Website Development Tiers",
+      "description": "Three distinct options for the website, varying in scope, detail, functionality, and associated effort/value.",
+      "tiers": [
+        {
+          "name": "Low Tier: Essential Online Presence",
+          "goal": "Basic online visibility, provide contact information, introduce core services.",
+          "effortValue": "Minimal effort, foundational online presence.",
+          "pages": "Core 4-5 pages (e.g., Homepage, Services, About, Contact). Services may be combined.",
+          "detailContent": "Concise, brief copy. Focus on stating services and contact methods.",
+          "features": [
+            "Simple contact form.",
+            "Links to external profiles (Google Reviews, NNA).",
+            "Phone number, email.",
+            "Static content."
+          ],
+          "relumeRepresentation": "A simplified structure based on the core prompt, potentially combining sections."
+        },
+        {
+          "name": "Medium Tier: Professional Service Hub",
+          "goal": "Clearly present core services, build trust, facilitate service inquiries and appointment requests, provide key information.",
+          "effortValue": "Standard effort, solid professional website with clear value proposition.",
+          "pages": "Core 6 pages: Homepage, Services, Dedicated Estate Planning page, About Us, Contact / Book Appointment, FAQs.",
+          "detailContent": "More descriptive and persuasive copy. Clear explanation of processes (Estate Planning workflow).",
+          "features": [
+            "Integrated online appointment *request* form (basic).",
+            "Embedded Google Reviews/Testimonials snippets.",
+            "Prominent display of certifications.",
+            "Military discount mention.",
+            "Improved on-page SEO basics."
+          ],
+          "relumeRepresentation": "The base structure generated by the detailed Relume prompt."
+        },
+        {
+          "name": "High Tier: Growth Accelerator",
+          "goal": "Position as an expert, drive lead generation, provide comprehensive resources, optimize for search visibility, potentially streamline booking further.",
+          "effortValue": "Higher effort, maximum value for lead generation and professional positioning.",
+          "pages": "All Medium tier pages + additional pages (7-9+), e.g., Testimonials page, comprehensive Resources/Blog section, potential service-specific landing pages.",
+          "detailContent": "In-depth, strategic copywriting. Detailed articles/resources. More compelling client stories. Strong focus on benefits.",
+          "features": [
+            "Potential integration with more advanced scheduling tools (calendar sync).",
+            "More extensive SEO implementation (keyword research, local SEO).",
+            "More tailored calls to action.",
+            "Planned content strategy foundation (e.g., blog topics).",
+            "All features from Medium tier."
+          ],
+          "relumeRepresentation": "Starts with the Medium tier wireframe, with description of added pages and expanded sections."
+        }
+      ]
+    }
+  },
+  "technicalApproach": {
+    "wireframing": "Utilize Relume.io to generate initial sitemap and wireframes, serving as the visual blueprint, particularly for the Medium tier structure.",
+    "keyFeaturesConsidered": [
+      "Online Appointment Request/Booking Form (integration level varies by tier).",
+      "Professional Email Setup (@domain.com).",
+      "SEO Foundation (on-page optimization, resource content potential).",
+      "Integration/Linking of Trust Signals (Certifications, Reviews).",
+      "Mobile-First Design."
+    ]
+  },
+  "proposedSitemapBase": [
+    "Homepage",
+    "Services",
+    "Estate Planning",
+    "About Us",
+    "Contact / Book Appointment",
+    "FAQs"
+  ],
+  "pricingStructure": {
+    "explanation": "The total project investment consists of a fixed cost for the essential Branding Package and a variable cost based on the chosen Website Development Tier.",
+    "components": [
+      {
+        "name": "Fixed Branding Package Cost",
+        "description": "One-time fee for all branding deliverables.",
+        "placeholderCost": "$X,XXX"
+      },
+      {
+        "name": "Variable Website Development Cost",
+        "description": "One-time fee based on the selected website tier scope.",
+        "tiers": [
+          {"name": "Low Tier", "placeholderCost": "$Y,YYY"},
+          {"name": "Medium Tier", "placeholderCost": "$Z,ZZZ"},
+          {"name": "High Tier", "placeholderCost": "$A,AAA"}
+        ]
+      }
+    ],
+    "totalInvestmentOptions": [
+      {"option": "Branding + Low Website", "placeholderTotal": "$X,XXX + $Y,YYY = Total 1"},
+      {"option": "Branding + Medium Website", "placeholderTotal": "$X,XXX + $Z,ZZZ = Total 2"},
+      {"option": "Branding + High Website", "placeholderTotal": "$X,XXX + $A,AAA = Total 3"}
+    ],
+    "notes": [
+      "Placeholder costs ($X, $Y, $Z, $A) will be replaced with specific figures.",
+      "Ongoing costs (hosting, domain, potential software subscriptions) are separate and will be estimated."
+    ]
+  },
+  "nextSteps": [
+    "Present this tiered proposal and pricing options to Jill.",
+    "Discuss and finalize the chosen Website Development Tier.",
+    "Begin the Branding Package process (name selection, logo design, etc.).",
+    "Utilize Relume to generate wireframes for the selected tier (or the Medium base).",
+    "Proceed with detailed content development and website build based on the chosen tier and finalized branding."
+  ],
+  "appendix": {
+    "relumePromptForMediumTierBase": "Website for professional notary service, West Coast Notary Services. Focus: Loan Signings & Estate Planning notarization. Estate Planning workflow: online info -> doc prep -> in-person notary. Also offers General Notary Work (limited). Target: Title/Banks, JV Referrals, Individuals. Goals: Trust, expertise, online appointment requests, info hub. Needs pages: Home, Services (detail Loan/Estate, list others), Estate Planning (workflow), About Us, Contact/Book Appointment (request form), FAQs. Features: CTAs, Appointment Request Form, Pro Email support, Certifications, Reviews (link/embed), Military Discount. Tone: Professional, Trustworthy, Efficient. Exclude Reverse Mortgages, Immigration, Tax, Apostille services from services listed."
+  }
+}
