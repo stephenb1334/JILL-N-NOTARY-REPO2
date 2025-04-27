@@ -1,0 +1,778 @@
+{
+  "metadata": {
+    "documentType": "Business Knowledge Base",
+    "version": "4.0-ultimate",
+    "lastUpdated": "2025-04-26",
+    "purpose": "AI Agent Repository Reference",
+    "confidentiality": "Business Confidential",
+    "developer": {
+      "name": "Steve Boerner",
+      "company": "The AI-Minded & Mind Design",
+      "location": "Gulfport, Florida",
+      "contact": {
+        "email": "steve@theaiminded.com",
+        "phone": "215-530-0545"
+      },
+      "role": {
+        "primary": "Brand Developer",
+        "responsibilities": [
+          "Business strategy",
+          "Website development",
+          "Brand development",
+          "Strategic consulting"
+        ]
+      },
+      "relationship": {
+        "introduction": "Via John",
+        "communicationPreference": "Calls available when needed",
+        "technicalApproach": "New coding development approaches, fast development with AI",
+        "projectApproach": {
+          "contractTypes": "Low, medium, high scale options",
+          "deliverables": [
+            "Website development",
+            "Brand kit (colors, logo variations, favicon)",
+            "Google Workspace setup",
+            "DocuSign integration ($20-30/month)",
+            "Calendar integration",
+            "Email setup"
+          ],
+          "costStructure": "Monthly fees for tools and services",
+          "paymentMethod": "Business banking card"
+        }
+      }
+    },
+    "technicalStack": {
+      "platform": "Vercel v0.dev",
+      "deployment": "Vercel",
+      "prototype": "https://v0-real-estate-prototype-three.vercel.app/",
+      "status": "In development",
+      "developmentApproach": "New coding approaches, fast development with AI",
+      "infrastructureTools": [
+        "Google Workspace Business",
+        "DocuSign for secure document signing",
+        "SSL certificates for security",
+        "Calendar integration systems"
+      ]
+    }
+  },
+  
+  "client": {
+    "personalInfo": {
+      "name": "Jill Marie Munoz",
+      "currentLocation": {
+        "city": "Centreville",
+        "state": "Maryland",
+        "country": "US"
+      },
+      "businessLocation": {
+        "city": "St. Petersburg",
+        "state": "Florida",
+        "country": "US"
+      },
+      "contact": {
+        "personalEmail": "jillmunozma@gmail.com",
+        "businessEmail": "info@gopronotaries.com",
+        "devices": ["iPhone 11"]
+      },
+      "professionalTitles": [
+        "Notary Public",
+        "Certified Naturopathic Doctor",
+        "Educator",
+        "Healer"
+      ],
+      "credentials": [
+        "National Certification through Loan Signing System",
+        "National Notary Association Member",
+        "State of Florida Notary Public Commission",
+        "Previously held Remote Online Notarization (RON) certification",
+        "Bilingual (English/Spanish)",
+        "20+ years experience (Since 2003)",
+        "Veteran Spouse (USAF)"
+      ],
+      "personalBackground": {
+        "spouse": "Michael (former United States Air Force veteran)",
+        "spouseStatus": "Deceased",
+        "militaryConnection": "Spouse of veteran - committed to serving veteran community",
+        "militaryDiscount": "GovX ID Military Discount available",
+        "commitment": "Deeply committed to giving back to those who have served our country"
+      },
+      "professionalStatement": "Since 2003, I have provided distinguished notarial services to discerning clients across the Tampa Bay area and beyond. As a bilingual Notary offering services in both English and Spanish, I am proud to offer a seamless and personalized experience for individuals and businesses requiring precision, discretion, and professionalism."
+    }
+  },
+  
+  "businessEntities": {
+    "notaryBusiness": {
+      "legalName": "West Coast Notaries, LLC",
+      "entityType": "Limited Liability Company",
+      "state": "Florida",
+      "status": "Active",
+      "founded": "2020",
+      "documentNumber": "L20000040348",
+      "feiEin": "84-4557202",
+      "taxStatus": "Single-member LLC",
+      "complianceStatus": {
+        "businessRegistration": "Active",
+        "addressCompliance": {
+          "status": "Compliant as of January 11, 2025",
+          "history": "Changed from PO Box to home address to comply with Division of Corporations requirements",
+          "requirement": "Physical street address required (no P.O. Box)"
+        },
+        "recentChanges": [
+          "Address change filed 2025",
+          "Michael removed from corporate entity (deceased)"
+        ]
+      },
+      "currentBranding": {
+        "marketingName": "GoPro Notaries",
+        "email": "info@gopronotaries.com",
+        "domain": "gopronotaries.com",
+        "tagline": "Professional. Precise. Proudly Serving Our Community and Veterans.",
+        "alternativeTaglines": {
+          "veteransFocus": "Thank you for your service",
+          "mobileService": "We Come to you"
+        },
+        "existingMaterials": {
+          "items": [
+            "Business cards with GoPro Notaries name",
+            "Promotional pens",
+            "Sticky notes"
+          ],
+          "status": "In use",
+          "challenge": "All materials have GoPro Notaries branding"
+        },
+        "googleBusinessProfile": "Active with reviews"
+      },
+      "banking": {
+        "institution": "Grow Financial Credit Union",
+        "accountType": "Business Banking",
+        "paymentMethods": "Business debit card available"
+      },
+      "dbaConsideration": {
+        "status": "Under consideration",
+        "parentCompany": "West Coast Notaries, LLC",
+        "currentBrand": "GoPro Notaries",
+        "trademarkConcerns": {
+          "conflictRisk": "8-8.5 out of 10 for trademark conflicts with GoPro camera company",
+          "recommendation": "Create new DBA under West Coast Notaries, LLC",
+          "searchOptimization": "GoPro dominates search results"
+        },
+        "considerations": {
+          "legal": "Must operate within same SIC code",
+          "accounting": "Transparent for tax purposes",
+          "marketing": "New brand development potential",
+          "sicCodeAlignment": "Required for transparent veil"
+        },
+        "placeholderNamesConsidered": [
+          "Sunrise Notary Solutions (prototype placeholder)",
+          "Reliable Notary Network (example)",
+          "TBD based on trademark availability"
+        ]
+      },
+      "serviceArea": {
+        "primary": "Greater Tampa Bay",
+        "regions": [
+          "Pasco County",
+          "Hillsborough County",
+          "Trinity, Florida",
+          "South Pinellas County",
+          "Wesley Chapel",
+          "Brandon",
+          "Gulfport",
+          "Tampa",
+          "St. Petersburg",
+          "Clearwater"
+        ],
+        "coverage": "All 67 Florida counties",
+        "mobility": "We Come to You",
+        "mobileCapability": true
+      },
+      "equipment": {
+        "mobileSetup": [
+          "Trunk printer setup (previously configured by Michael)",
+          "Mobile scanner",
+          "Paper supplies",
+          "Emergency backup equipment"
+        ],
+        "status": "Fully operational",
+        "recentCheck": "Pulled out and verified all equipment"
+      },
+      "contracts": [
+        "Rocket Mortgage",
+        "Various title companies",
+        "Real estate firms"
+      ],
+      "platformsUsed": [
+        "Signing platforms/apps",
+        "Title company systems",
+        "Remote notary platforms (during COVID)",
+        "Third-party servers for document storage (for RON)"
+      ],
+      "businessModel": {
+        "current": "Direct service provider",
+        "potentialExpansion": "Signing service (decided against - too tedious)",
+        "referralArrangements": "Looking at referral fees for general notary work",
+        "brokerageConsideration": {
+          "inspiration": "Real estate brokerage model",
+          "example": "Friend runs House and Land Real Estate",
+          "concept": "Could bring on notaries who use the brand, take cut of revenue"
+        }
+      }
+    },
+    
+    "healthBusiness": {
+      "legalName": "International Health Alliances, LLC",
+      "tagline": "Bringing the world together through Optimizing Health",
+      "status": "Active",
+      "state": "Florida",
+      "timeline": "2025 major development",
+      "domain": "drjillnd.com",
+      "currentStatus": {
+        "activity": "Health product reselling",
+        "platform": "Nutrametrix",
+        "annualFee": 129.95,
+        "features": [
+          "Website hosting",
+          "Merchant banking",
+          "Direct shipping to customers"
+        ],
+        "established": "2005",
+        "status": "Active and loved since 2005",
+        "redirectNote": "drjillnd.com currently redirects to nutrametrix site"
+      },
+      "futureVision": {
+        "name": "Dr. Jill, ND",
+        "domain": "drjillnd.com",
+        "vision": "A site not only for nutrametrix products, but other new products to serve & help others worldwide",
+        "concepts": [
+          "'vitaminjill.... get your dose today' concept",
+          "A place where you learn to transform yourself to become the best version of your authentic self"
+        ],
+        "timeline": "Fall 2025 after road trip across USA",
+        "products": [
+          {
+            "name": "The Art of Sacred Forgiveness",
+            "type": "Digital mini workbook with audio meditations",
+            "description": "A soul-deep healing experience to free your heart and rewrite your story",
+            "status": "3rd draft",
+            "author": "Dr. Jill Munoz, Certified Naturopathic Doctor, Educator, & Healer",
+            "features": [
+              "Audio meditations",
+              "Soul-deep healing experience",
+              "Story rewriting guidance"
+            ]
+          }
+        ]
+      }
+    },
+    
+    "additionalBackground": {
+      "vileInterview": {
+        "company": "Vile",
+        "description": "AI based clinical trial company that speeds up clinical trials",
+        "position": "Interviewed ~1.5 years ago",
+        "status": "Was excited about the opportunity but didn't get the job"
+      }
+    }
+  },
+  
+  "servicesPortfolio": {
+    "notaryServices": {
+      "experience": "Over 20 years",
+      "established": "2003",
+      "serviceCategories": {
+        "realEstateServices": {
+          "name": "Real Estate Services",
+          "priority": "High",
+          "revenue": "Primary (50%+ of business)",
+          "services": [
+            "Real estate document notarization and preparation",
+            "Seller documents",
+            "New home purchase documents",
+            "Loan signing agent services (NNA and LSS Certified)",
+            "Refinance",
+            "Second mortgages",
+            "HELOC",
+            "Advance Deed Transfers"
+          ],
+          "specialization": "Loan Signing System certification is gold standard for mortgage/refinance business",
+          "note": "Money is really in title and banking work vs general notary work"
+        },
+        "estatePlanning": {
+          "name": "Estate Planning",
+          "priority": "High",
+          "services": [
+            "Last Will and Testament ($150)",
+            "Living Will/Advance Healthcare Directive ($65)",
+            "Durable Power of Attorney ($125)",
+            "Full estate planning packages",
+            "Testamentos, Directivas, Carta de Poder (Spanish services)",
+            "Executive Directives"
+          ],
+          "pricing": {
+            "lastWill": 150.00,
+            "livingWill": 65.00,
+            "powerOfAttorney": 125.00,
+            "fullPackage": "350-390",
+            "witnessRequirements": {
+              "count": 2,
+              "restrictions": "Unrelated to signers",
+              "fee": 25
+            }
+          },
+          "workflow": {
+            "steps": [
+              "Initial consultation (30-minute virtual meeting)",
+              "Document preparation using templates",
+              "Client review via secure email",
+              "In-person notarization and witness signing"
+            ]
+          },
+          "referralSource": {
+            "partner": "Larry Rivera",
+            "business": "Cremation business for veterans",
+            "background": "Retired Army Captain",
+            "referralProcess": "He sells cremation deals, then checks if they need estate planning",
+            "targetVolume": "10 referrals per month minimum goal",
+            "relationship": "Checks in regularly, 'surrogate dad' role",
+            "currentActivity": "Sold 2 cremation deals yesterday"
+          }
+        },
+        "generalNotaryServices": {
+          "name": "General Notary Services",
+          "priority": "Low",
+          "revenue": "15%",
+          "services": [
+            "General document notarization",
+            "Mobile notary services covering all 67 Florida counties",
+            "Witnesses for document signing",
+            "Extended hours notary services (with convenience fee)",
+            "LegalZoom document notarization",
+            "Contracts and agreements",
+            "Affidavits",
+            "Permission slips",
+            "Vehicle title transfers"
+          ],
+          "pricing": "Typically $50 for local jobs, much lower than specialized work",
+          "referralProgram": {
+            "partner": "Local retired notary (met today)",
+            "status": "Bored retired person with active notary stamp",
+            "arrangement": "Would take all general notary work during Jill's travels",
+            "period": "July-August travel period",
+            "structure": "Referral fee, run through West Coast Notaries LLC, 1099 contractor"
+          }
+        },
+        "vehicleDocumentation": {
+          "name": "Vehicle Documentation",
+          "services": [
+            "VIN verification",
+            "Odometer verification",
+            "Out-of-state vehicle registration assistance",
+            "Trailer, RV, and motorcycle documentation",
+            "Vehicle title transfers"
+          ]
+        },
+        "weddingServices": {
+          "name": "Wedding Officiant Services",
+          "description": "Elegant Wedding Officiant Services – Serving Tampa Bay and Beyond",
+          "services": [
+            "Classic weddings",
+            "Intimate elopements",
+            "Non-denominational celebrations",
+            "Marriage ceremonies",
+            "Officiating services"
+          ],
+          "authorization": "State of Florida Notary Public Commission",
+          "requirements": "Valid marriage license from Clerk of Court",
+          "availability": "Florida residents and out-of-state visitors",
+          "approach": "Personalized ceremonies capturing essence of couple's bond",
+          "marketingDescription": "Your wedding day is a beautiful chapter in your love story — a moment to be cherished forever. As a dedicated wedding officiant based in Trinity, Florida, I am honored to help you create a ceremony that reflects the heart of your journey together. Whether you envision a classic wedding, an intimate elopement, or a non-denominational celebration, I will thoughtfully craft a personalized ceremony that captures the essence of your bond."
+        },
+        "apostilleServices": {
+          "name": "Apostille Services",
+          "fee": 250,
+          "documentTypes": [
+            "Birth certificates",
+            "Marriage licenses",
+            "Powers of attorney",
+            "Business agreements",
+            "Legal papers"
+          ],
+          "requirements": [
+            "Document origin information",
+            "Destination country",
+            "Pre-apostille notarization status"
+          ],
+          "useCases": [
+            "International adoptions",
+            "Dual citizenship applications",
+            "Overseas employment",
+            "Business transactions",
+            "Educational purposes abroad"
+          ],
+          "process": "Work with relevant authorities to meet international requirements",
+          "marketingDescription": "Easy Apostille Service in Tampa Bay. We offer apostille services to authenticate documents for international use, including birth certificates, marriage licenses, and other legal papers. Our efficient process ensures all paperwork is handled correctly, working with relevant authorities to meet international requirements, making it smooth and stress-free for you."
+        },
+        "businessServices": {
+          "name": "Business & Employment Services",
+          "services": [
+            "I-9 Form verification (Employment Eligibility Verification)",
+            "Authorized representative services for remote employee verification"
+          ]
+        },
+        "documentServices": {
+          "name": "Document Services",
+          "services": [
+            "International document shipping (over 200 countries)",
+            "Legal document preparation with state compliance",
+            "Translation services (English-Spanish)"
+          ]
+        }
+      },
+      "excludedServices": [
+        "Reverse mortgages (too long, not enough pay)",
+        "Immigration services",
+        "Tax services"
+      ],
+      "specialFeatures": {
+        "languages": ["English", "Spanish"],
+        "militaryDiscount": {
+          "available": true,
+          "platform": "GovX ID",
+          "eligibility": "All United States Armed Forces veterans",
+          "message": "Thank you for your service",
+          "personalConnection": "As the proud spouse of a former USAF veteran"
+        },
+        "mobileService": true,
+        "serviceLocations": [
+          "Client's location (mobile service)",
+          "Notary office",
+          "Public locations (coffee shops, libraries)"
+        ]
+      }
+    }
+  },
+  
+  "businessStrategy": {
+    "currentPhase": {
+      "notaryBusiness": {
+        "status": "Active side hustle",
+        "focus": "Maintain as reliable income source",
+        "websiteNeeds": {
+          "budget": "Lower end of costs",
+          "deadline": "2025-04-27",
+          "priority": "Not urgent, but committed to deadline"
+        },
+        "revenueGoals": "$50,000 - $150,000 annually",
+        "pastRevenue": "$65,000 - $80,000 annually",
+        "purpose": "Something to do for cash flow while deciding next steps",
+        "approach": "Keep expenses low, maintain simplicity"
+      },
+      "healthBusiness": {
+        "status": "Planning phase",
+        "timeline": "Fall 2025 post-USA road trip",
+        "focus": "Expansion and integration with health optimization vision"
+      }
+    },
+    "timeline": {
+      "aprilMay2025": "In town, working on business setup",
+      "websiteTarget": "April 27, 2025",
+      "julyAugust2025": "Road trip across USA to figure out next steps",
+      "fall2025": "Return and business expansion",
+      "futureProject": "drjillnd.com development after road trip"
+    },
+    "recentActivities": {
+      "recertification": "Tuesday/Wednesday - taking exams and recertifying",
+      "profileRefresh": "Refreshed all signing platform profiles",
+      "companyOutreach": "Emailed companies about availability",
+      "equipmentCheck": "Pulled out trunk printer and verified all equipment"
+    },
+    "jointVentures": {
+      "existing": {
+        "partner": "Larry Rivera",
+        "business": "Cremation business",
+        "background": "Retired Army Captain",
+        "role": "Veteran advocate",
+        "referralArrangement": {
+          "process": "Sells cremation deals, then asks about estate planning",
+          "referralFlow": "Sends estate planning clients to Jill",
+          "pricing": "Jill sets pricing for estate planning services",
+          "goal": "10 referrals monthly minimum",
+          "currentActivity": "Sold 2 cremation deals yesterday when transcript recorded"
+        },
+        "relationship": "Checks in regularly, has become like a surrogate dad"
+      },
+      "potential": {
+        "generalNotaryReferrals": {
+          "contact": "Local retired notary (met today)",
+          "status": "Bored retired person with active notary stamp",
+          "arrangement": "Would take all general notary work during Jill's travels (July-August)",
+          "model": "Referral fee for service arrangements",
+          "businessStructure": "Run through West Coast Notaries LLC, 1099 contractor"
+        },
+        "brokerageConcept": {
+          "inspiration": "Real estate brokerage model",
+          "example": "Friend runs House and Land Real Estate",
+          "consideration": "Could bring on notaries who use the brand, take cut of revenue"
+        }
+      }
+    },
+    "futureIntegration": {
+      "consideration": {
+        "status": "Under review",
+        "options": [
+          "Keep businesses separate",
+          "Partial integration of health ventures",
+          "Complete integration under health alliance"
+        ]
+      },
+      "challenges": [
+        "Brand alignment",
+        "Service differentiation",
+        "Marketing strategy",
+        "Operational efficiency"
+      ],
+      "opportunities": {
+        "healthProducts": {
+          "current": "Nutrametrix reselling",
+          "future": {
+            "products": [
+              "Digital workbooks",
+              "Audio meditations",
+              "Transformation programs"
+            ],
+            "example": {
+              "title": "The Art of Sacred Forgiveness",
+              "type": "Digital mini workbook",
+              "features": [
+                "Audio meditations",
+                "Soul-deep healing experience",
+                "Story rewriting guidance"
+              ],
+              "status": "3rd draft"
+            }
+          }
+        }
+      }
+    }
+  },
+  
+  "websiteProject": {
+    "objectives": [
+      "Build trust and credibility",
+      "Facilitate appointment booking",
+      "Showcase services and expertise",
+      "Reduce phone call volume",
+      "Enable online transactions"
+    ],
+    "requirements": {
+      "timeline": "April 27, 2025",
+      "budget": "Lower end of costs (side hustle)",
+      "urgency": "Not rushed, but committed to deadline",
+      "features": [
+        "Mobile-responsive design",
+        "Online appointment booking (15-minute general, 30-minute estate planning)",
+        "Calendar integration (sync with personal/professional calendars)",
+        "Document request forms",
+        "Google Business integration",
+        "Professional email (@domain)",
+        "DocuSign integration",
+        "SSL for secure document transmission",
+        "Call-to-action buttons (CALL or Purchase document packages)",
+        "Online purchase option for estate planning documents",
+        "Encrypted legal document transmission",
+        "FAQ section",
+        "Resource library for SEO"
+      ],
+      "bookingSystem": {
+        "appointmentTypes": [
+          {
+            "type": "Estate Planning Virtual Meeting",
+            "duration": "30 minutes",
+            "purpose": "Initial consultation and document review"
+          },
+          {
+            "type": "General Notary",
+            "duration": "15 minutes",
+            "purpose": "Quick notarization services"
+          },
+          {
+            "type": "Title Company Booking",
+            "duration": "As required",
+            "purpose": "Refinance and closing appointments",
+            "note": "Training title companies to use online booking instead of calling"
+          }
+        ],
+        "objectives": [
+          "Reduce phone calls",
+          "Automate scheduling",
+          "Sync with personal calendar",
+          "Block vacation/personal time automatically"
+        ]
+      },
+      "content": {
+        "required": [
+          "Professional bio",
+          "Service descriptions",
+          "Pricing information",
+          "Booking system",
+          "Contact information",
+          "FAQ section",
+          "Resource library for SEO"
+        ],
+        "tone": "Professional and warm",
+        "emphasis": [
+          "20+ years experience",
+          "Military connection",
+          "Bilingual capabilities",
+          "Mobile service",
+          "Precision and professionalism"
+        ]
+      },
+      "design": {
+        "colorScheme": {
+          "main": "#B78DC9 (East Side)",
+          "secondary": "#C88A63 (Old Rose)",
+          "accent1": "#9EBACD (Rock Blue)",
+          "accent2": "#83BFBD (Neptune)"
+        },
+        "typography": {
+          "heading": "Manrope",
+          "body": "Mulish"
+        },
+        "images": {
+          "concerns": "Hair color looks reddish in current photo - needs to be darker brown",
+          "needs": [
+            "Other notary stock images ASAP",
+            "Professional headshot adjustment",
+            "Service-related stock photos"
+          ]
+        },
+        "logo": {
+          "status": "Needed",
+          "priority": "High",
+          "deliverables": [
+            "Main logo",
+            "Favicon (32x32 pixels)",
+            "Different versions for light/dark backgrounds",
+            "Scalable SVG files",
+            "Black/white versions",
+            "Square version for social media",
+            "Transparent PNG versions"
+          ]
+        },
+        "brandKit": {
+          "includes": [
+            "Color palette with hex codes",
+            "Typography guidelines",
+            "Logo usage guidelines",
+            "Social media asset templates",
+            "Business card templates"
+          ]
+        }
+      },
+      "sitemap": {
+        "pages": [
+          "Home",
+          "Services",
+          "Schedule",
+          "About Us",
+          "Contact",
+          "Client Resources",
+          "FAQ"
+        ],
+        "callToAction": "Book Now button across all pages"
+      }
+    }
+  },
+  
+  "marketingContent": {
+    "professionalBio": "Premier Notary Services by Jill M. Munoz, \"Professional. Precise. Proudly Serving Our Community and Veterans.\" Since 2003, I have provided distinguished notarial services to discerning clients across the Tampa Bay area and beyond. I offer bilingual Notary services with fluency in both English and Spanish, I am proud to offer a seamless and personalized experience for individuals and businesses requiring precision, discretion, and professionalism. I hold a National Certification through the esteemed Loan Signing System and maintain long-standing membership with the National Notary Association, underscoring my commitment to excellence, security, and ongoing education in the notarial field. Specializing in real estate transactions, loan signings, legal document notarizations, and executive mobile services, I ensure every detail is handled with the highest level of accuracy and care. My clients value efficiency, confidentiality, and a superior standard of service — and I am honored to deliver on that expectation with every signing. As the proud spouse of a former United States Air Force veteran, I am deeply committed to giving back to those who have served our country. I am honored to offer discounted notarial services to all United States Armed Forces veterans. Experience notarial services elevated to a higher standard. I look forward to serving your needs with expertise you can trust!",
+    "serviceDescriptions": {
+      "apostille": "Easy Apostille Service in Tampa Bay. We offer apostille services to authenticate documents for international use, including birth certificates, marriage licenses, and other legal papers. Our efficient process ensures all paperwork is handled correctly, working with relevant authorities to meet international requirements, making it smooth and stress-free for you.",
+      "weddings": "Elegant Wedding Officiant Services – Serving Tampa Bay and Beyond. Your wedding day is a beautiful chapter in your love story — a moment to be cherished forever. As a dedicated wedding officiant based in Trinity, Florida, I am honored to help you create a ceremony that reflects the heart of your journey together. Whether you envision a classic wedding, an intimate elopement, or a non-denominational celebration, I will thoughtfully craft a personalized ceremony that captures the essence of your bond."
+    },
+    "valueProposition": "Executive mobile services with precision, discretion, and professionalism",
+    "targetAudience": [
+      "Real estate clients",
+      "Title companies",
+      "Estate planning clients",
+      "Veterans",
+      "Spanish-speaking community",
+      "Mortgage companies",
+      "Cremation services clients"
+    ],
+    "alternativeTaglines": {
+      "veteransFocus": "Thank you for your service",
+      "mobileService": "We Come to you"
+    },
+    "seoKeywords": [
+      "Tampa Bay notary",
+      "Mobile notary Florida",
+      "Spanish-speaking notary",
+      "Veteran notary services",
+      "Estate planning notary",
+      "Real estate notary",
+      "Wedding officiant Tampa",
+      "Apostille services Florida",
+      "Bilingual notary services",
+      "Trinity notary services"
+    ]
+  },
+  
+  "customerRatings": {
+    "googleReviews": {
+      "averageRating": 5.0,
+      "totalReviews": 4,
+      "highlights": [
+        "Professionalism",
+        "Knowledge",
+        "Efficiency",
+        "Customer service"
+      ]
+    }
+  },
+  
+  "projectManagement": {
+    "currentStatus": {
+      "transitionPeriod": true,
+      "recentActivities": {
+        "recertification": "Tuesday/Wednesday - taking exams and recertifying",
+        "profileRefresh": "Refreshed all signing platform profiles",
+        "companyOutreach": "Emailed companies about availability",
+        "equipmentCheck": "Pulled out trunk printer and verified all equipment"
+      }
+    },
+    "developmentMilestones": {
+      "phase1": {
+        "name": "Initial Setup",
+        "tasks": [
+          "Website prototype development",
+          "Brand strategy decision",
+          "DBA research and filing",
+          "Logo creation"
+        ],
+        "deadline": "April 15, 2025"
+      },
+      "phase2": {
+        "name": "Website Development",
+        "tasks": [
+          "Full website development",
+          "Calendar integration",
+          "Booking system setup",
+          "Content creation"
+        ],
+        "deadline": "April 27, 2025"
+      },
+      "phase3": {
+        "name": "Launch and Optimization",
+        "tasks": [
+          "Website launch",
+          "SEO optimization",
+          "Google Business integration",
+          "Marketing materials update"
+        ],
+        "deadline": "May 1, 2025"
+      }
+    }
+  }
+}
